@@ -1,5 +1,8 @@
 # Comp-proposal-Tutorial-Report
 
+This Repo includes the Comps proposal by haotian wang
+This Repo also includes a Tutorial report and the software documentation for the tutorial. 
+
 This is a tutorial project follows [this tutorial](http://ai.berkeley.edu/reinforcement.html).
 
 In this project you will be implementing the value iteration and Q-learning. You will test the agents first on Gridworld, then apply them to a simulated robot controller and Pacman. 
